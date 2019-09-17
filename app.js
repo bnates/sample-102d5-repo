@@ -1,1 +1,1 @@
-console.log('some random code');
+console.log('some random code')
